@@ -1,6 +1,6 @@
 # Standard License - nucleoapp.com
 
-Last updated: April 10, 2017
+Github repo: https://github.com/NucleoApp/license-standard
 
 By purchasing Nucleo you are being granted a license to use Nucleo icons (including the custom Nucleo icons created through the Nucleo applications) for specific uses under certain conditions.
 
