@@ -6,7 +6,7 @@ By purchasing Nucleo you are being granted a license to use Nucleo icons (includ
 
 You have rights to use Nucleo icons in unlimited personal and commercial projects for yourself or a client. Even if you don't renew the Basic license, you can still use the source files for as many projects as you want.
 
-For each project, you can use a maximum of 250 Nucleo icons (intended per unique style: for example if you're using the same icon in both the outline and glyph styles, or in 2 different sizes, you're using 2 icons). This limit doesn't apply if you're using Nucleo web fonts, in which case you can use all icons included within the font.
+For each project, you can use a maximum of 250 Nucleo icons (intended per unique style: for example if you're using the same icon in both the outline and glyph styles, or in 2 different sizes, you're using 2 icons).
 
 By purchasing Nucleo, you have the right to:
 
