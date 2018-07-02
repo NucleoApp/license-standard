@@ -1,4 +1,4 @@
-Standard License
+Nucleo Icons - Standard License
 
 =========
 
